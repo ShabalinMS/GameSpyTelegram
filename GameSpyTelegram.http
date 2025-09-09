@@ -1,0 +1,6 @@
+@GameSpyTelegram_HostAddress = http://localhost:5228
+
+GET {{GameSpyTelegram_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
